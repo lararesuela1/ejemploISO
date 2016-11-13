@@ -2,6 +2,9 @@ package src;
 
 public class PruebaJose {
 
+	//MOdificada
+	
+	
 	@Override
 	public int hashCode() {
 		// TODO Auto-generated method stub
